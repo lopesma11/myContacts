@@ -1,4 +1,4 @@
-CREATE DATABASE nyContacts;
+CREATE DATABASE nycontacts;
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
